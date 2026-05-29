@@ -1,0 +1,16 @@
+EmployeeID,Name,Department,Age,Salary,JoinDate,PerformanceScore,Remote
+101,Alex Johnson,Sales,28,55000,2022-03-15,8.5,Yes
+102,Biplob Roy,Engineering,32,85000,2021-06-01,9.0,No
+103,Chandra Sarker,HR,45,65000,2018-11-12,7.2,Yes
+104,David Miller,Engineering,24,70000,2023-01-10,8.1,Yes
+105,Emma Watson,Marketing,30,,2020-09-05,6.8,No
+106,Fahim Ahmad,Sales,35,58000,2019-05-22,7.9,No
+107,Gita Das,Engineering,40,95000,2017-02-14,9.5,No
+108,Hassan Ali,HR,29,52000,2022-11-01,6.5,Yes
+109,Imran Khan,Sales,23,48000,2023-07-19,7.0,Yes
+110,Jessica Alba,Marketing,38,72000,2015-04-30,8.8,No
+111,Kevin Mitnick,Engineering,42,105000,2014-08-18,9.8,No
+112,Lisa Ray,Sales,31,56000,2021-10-05,,Yes
+113,Michael Page,HR,50,67000,2012-05-20,8.0,No
+114,Nina Dobrev,Marketing,26,61000,2022-01-15,7.4,Yes
+115,Oscar Isaac,Engineering,36,88000,2019-12-01,8.4,Yes
