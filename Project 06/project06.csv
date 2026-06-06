@@ -1,0 +1,111 @@
+Timestamp,Room_Type,Temperature_C,Humidity_Pct,Power_Consumption_kWh,Motion_Detected,Device_Status
+2026-01-01 00:00,Server Closet,24.3,38.9,0.923,No,Active
+2026-01-02 07:00,Server Closet,24.1,43.2,1.385,No,Standby
+2026-01-03 14:00,Kitchen,21.5,52.3,0.316,Yes,Standby
+2026-01-04 21:00,Master Bedroom,20.0,37.2,0.188,No,Standby
+2026-01-06 04:00,Living Room,20.9,46.7,0.301,Yes,Active
+2026-01-07 11:00,Home Office,19.3,55.9,0.207,Yes,Standby
+2026-01-08 18:00,Server Closet,24.6,58.3,1.442,No,Standby
+2026-01-10 01:00,Living Room,19.4,49.8,0.222,No,Standby
+2026-01-11 08:00,Server Closet,26.4,32.7,1.066,No,Active
+2026-01-12 15:00,Master Bedroom,19.8,40.1,0.285,No,Active
+2026-01-13 22:00,Living Room,18.9,50.1,0.254,No,Standby
+2026-01-15 05:00,Server Closet,23.1,41.9,1.144,No,Standby
+2026-01-16 12:00,Master Bedroom,,46.5,0.0,No,Offline
+2026-01-17 19:00,Server Closet,23.3,47.4,1.493,No,Standby
+2026-01-19 02:00,Living Room,22.2,43.8,0.0,No,Offline
+2026-01-20 09:00,Home Office,22.4,56.5,0.141,Yes,Standby
+2026-01-21 16:00,Home Office,21.0,43.0,0.147,Yes,Active
+2026-01-22 23:00,Server Closet,24.2,40.5,0.0,No,Offline
+2026-01-24 06:00,Living Room,21.0,43.3,0.373,Yes,Standby
+2026-01-25 13:00,Kitchen,21.2,50.8,2.378,Yes,Standby
+2026-01-26 20:00,Server Closet,25.4,47.1,0.852,No,Standby
+2026-01-28 03:00,Living Room,,41.0,0.316,Yes,Standby
+2026-01-29 10:00,Server Closet,24.2,35.0,0.846,No,Active
+2026-01-30 17:00,Living Room,19.0,38.2,0.342,No,Active
+2026-02-01 00:00,Home Office,19.3,56.7,0.137,No,Active
+2026-02-02 07:00,Master Bedroom,22.0,38.8,0.347,Yes,Standby
+2026-02-03 14:00,Home Office,21.0,52.2,0.222,Yes,Active
+2026-02-04 21:00,Master Bedroom,21.4,41.9,0.323,No,Active
+2026-02-06 04:00,Master Bedroom,20.0,34.0,0.0,No,Offline
+2026-02-07 11:00,Master Bedroom,19.8,42.7,0.383,Yes,Standby
+2026-02-08 18:00,Server Closet,24.9,46.5,1.215,No,Active
+2026-02-10 01:00,Server Closet,24.2,33.5,1.43,No,Standby
+2026-02-11 08:00,Home Office,19.8,55.1,0.098,Yes,Standby
+2026-02-12 15:00,Kitchen,22.2,32.4,1.674,No,Active
+2026-02-13 22:00,Server Closet,25.6,42.4,1.48,No,Active
+2026-02-15 05:00,Server Closet,23.3,47.2,1.282,No,Active
+2026-02-16 12:00,Kitchen,20.2,46.2,1.383,No,Standby
+2026-02-17 19:00,Server Closet,24.6,56.0,1.332,No,Active
+2026-02-19 02:00,Master Bedroom,19.1,43.2,0.252,Yes,Standby
+2026-02-20 09:00,Home Office,,41.0,0.345,Yes,Standby
+2026-02-21 16:00,Home Office,19.7,35.6,0.334,No,Standby
+2026-02-22 23:00,Server Closet,24.3,56.7,1.309,No,Active
+2026-02-24 06:00,Kitchen,,46.5,0.767,Yes,Standby
+2026-02-25 13:00,Master Bedroom,20.0,50.7,0.187,Yes,Active
+2026-02-26 20:00,Master Bedroom,18.4,56.8,0.188,No,Active
+2026-02-28 03:00,Home Office,22.7,,0.111,No,Active
+2026-03-01 10:00,Server Closet,24.3,37.1,0.92,No,Active
+2026-03-02 17:00,Kitchen,23.0,52.2,0.613,No,Active
+2026-03-04 00:00,Server Closet,24.7,42.5,1.157,No,Active
+2026-03-05 07:00,Server Closet,24.0,57.0,1.432,No,Standby
+2026-03-06 14:00,Home Office,18.4,50.2,0.213,Yes,Active
+2026-03-07 21:00,Server Closet,23.2,50.8,0.857,No,Active
+2026-03-09 04:00,Kitchen,21.5,41.9,1.155,Yes,Active
+2026-03-10 11:00,Kitchen,18.8,47.8,2.37,Yes,Active
+2026-03-11 18:00,Server Closet,25.9,45.3,1.328,No,Standby
+2026-03-13 01:00,Living Room,19.8,32.3,0.347,Yes,Standby
+2026-03-14 08:00,Living Room,21.2,49.2,0.395,No,Active
+2026-03-15 15:00,Master Bedroom,21.4,54.1,0.283,No,Active
+2026-03-16 22:00,Master Bedroom,19.3,55.9,0.391,Yes,Active
+2026-03-18 05:00,Home Office,20.4,43.2,0.067,Yes,Active
+2026-03-19 12:00,Server Closet,25.1,43.8,1.259,No,Active
+2026-03-20 19:00,Kitchen,22.1,38.1,0.33,Yes,Standby
+2026-03-22 02:00,Kitchen,19.8,,2.109,No,Active
+2026-03-23 09:00,Living Room,19.8,37.3,0.285,No,Active
+2026-03-24 16:00,Server Closet,24.7,52.4,1.418,No,Standby
+2026-03-25 23:00,Server Closet,25.6,41.3,0.0,No,Offline
+2026-03-27 06:00,Kitchen,17.2,51.7,1.868,Yes,Standby
+2026-03-28 13:00,Living Room,19.9,53.2,0.301,Yes,Standby
+2026-03-29 20:00,Kitchen,17.7,46.7,1.151,Yes,Standby
+2026-03-31 03:00,Home Office,19.7,53.8,0.264,Yes,Standby
+2026-04-01 10:00,Home Office,20.6,43.0,0.354,Yes,Active
+2026-04-02 17:00,Server Closet,25.3,47.9,1.411,No,Standby
+2026-04-03 24:00,Server Closet,25.2,54.9,0.865,No,Active
+2026-04-05 07:00,Home Office,19.5,41.6,0.0,No,Offline
+2026-04-06 14:00,Master Bedroom,22.1,51.8,0.207,No,Active
+2026-04-07 21:00,Kitchen,20.1,,0.461,Yes,Standby
+2026-04-09 04:00,Home Office,,41.8,0.119,Yes,Active
+2026-04-10 11:00,Kitchen,20.7,42.5,0.785,Yes,Active
+2026-04-11 18:00,Living Room,18.7,40.1,0.252,No,Standby
+2026-04-12 25:00,Home Office,20.4,41.5,,Yes,Active
+2026-04-14 02:00,Server Closet,25.6,44.2,1.214,No,Standby
+2026-04-15 09:00,Master Bedroom,19.4,36.5,0.373,Yes,Standby
+2026-04-16 16:00,Server Closet,24.1,49.1,1.066,No,Active
+2026-04-17 23:00,Home Office,17.8,40.5,0.098,Yes,Active
+2026-04-19 06:00,Kitchen,22.8,42.6,2.235,Yes,Active
+2026-04-20 13:00,Kitchen,20.0,38.9,0.518,No,Standby
+2026-04-21 20:00,Home Office,20.4,40.9,0.144,Yes,Active
+2026-04-22 27:00,Kitchen,19.2,35.6,0.375,Yes,Standby
+2026-04-24 04:00,Master Bedroom,,46.5,0.057,No,Standby
+2026-04-25 11:00,Home Office,18.5,39.0,0.169,No,Active
+2026-04-26 18:00,Home Office,20.9,50.7,0.395,No,Active
+2026-04-27 25:00,Kitchen,22.8,41.0,1.385,Yes,Active
+2026-04-29 02:00,Kitchen,23.1,49.9,2.445,Yes,Active
+2026-04-30 09:00,Kitchen,20.1,45.3,1.353,Yes,Active
+2026-05-01 16:00,Master Bedroom,19.2,36.3,0.071,Yes,Standby
+2026-05-02 23:00,Server Closet,24.2,39.5,1.205,No,Standby
+2026-05-04 06:00,Home Office,,41.0,0.371,No,Active
+2026-05-05 13:00,Master Bedroom,18.4,46.1,0.052,Yes,Standby
+2026-05-06 20:00,Master Bedroom,18.6,40.4,0.0,No,Offline
+2026-05-08 03:00,Server Closet,23.3,47.9,1.173,No,Active
+2026-05-09 10:00,Master Bedroom,19.4,42.8,0.222,Yes,Active
+2026-05-10 17:00,Living Room,20.4,46.5,0.366,Yes,Standby
+2026-05-11 24:00,Server Closet,25.9,46.9,0.0,No,Offline
+2026-05-13 07:00,Server Closet,24.9,46.8,,No,Active
+2026-05-14 14:00,Kitchen,18.6,41.0,0.478,Yes,Standby
+2026-05-15 21:00,Kitchen,19.2,50.2,0.925,No,Active
+2026-05-17 04:00,Kitchen,22.5,41.4,1.442,Yes,Active
+2026-05-18 11:00,Kitchen,19.1,51.8,0.697,No,
+2026-05-19 18:00,Server Closet,24.1,43.2,0.923,No,Active
+2026-05-20 25:00,Living Room,19.3,55.4,0.364,Yes,Active
