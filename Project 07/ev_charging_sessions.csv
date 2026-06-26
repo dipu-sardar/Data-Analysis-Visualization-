@@ -1,0 +1,111 @@
+Session_ID,Station_Location,Vehicle_Model,Battery_Capacity_kWh,Energy_Consumed_kWh,Charging_Duration_mins,Cost_USD,User_Type
+CHG1000,Urban,Tesla Model 3,75,62.21,356.0,16.43,Subscriber
+CHG1001,Highway,Tesla Model 3,75,39.37,53.0,18.04,Subscriber
+CHG1002,Highway,Chevrolet Bolt,66,26.09,35.0,12.46,Casual
+CHG1003,Suburban,VW ID.4,82,49.37,418.0,15.82,Casual
+CHG1004,Urban,VW ID.4,82,56.83,318.0,15.14,Subscriber
+CHG1005,Urban,Hyundai Ioniq 5,77,63.54,366.0,16.75,Casual
+CHG1006,Urban,VW ID.4,82,57.88,,15.39,Casual
+CHG1007,Highway,VW ID.4,82,43.52,59.0,19.78,Subscriber
+CHG1008,Suburban,VW ID.4,82,35.77,313.0,11.87,Casual
+CHG1009,Highway,Nissan Leaf,40,12.32,18.0,6.67,Subscriber
+CHG1010,Urban,Hyundai Ioniq 5,77,28.02,170.0,8.22,Casual
+CHG1011,Highway,Tesla Model 3,75,42.06,57.0,19.17,Casual
+CHG1012,Highway,Chevrolet Bolt,66,23.35,26.0,11.31,Subscriber
+CHG1013,Urban,Tesla Model 3,75,29.64,171.0,8.61,Subscriber
+CHG1014,Urban,Hyundai Ioniq 5,77,41.47,249.0,11.45,Subscriber
+CHG1015,Urban,Chevrolet Bolt,66,42.85,,11.78,Subscriber
+CHG1016,Urban,Hyundai Ioniq 5,77,25.02,158.0,7.5,Casual
+CHG1017,Suburban,VW ID.4,82,,398.0,15.21,Casual
+CHG1018,Suburban,Chevrolet Bolt,66,50.89,430.0,16.26,Subscriber
+CHG1019,Urban,VW ID.4,82,,168.0,8.17,Subscriber
+CHG1020,Suburban,Tesla Model 3,75,49.0,418.0,15.71,Subscriber
+CHG1021,Urban,Tesla Model 3,75,61.28,347.0,16.21,Subscriber
+CHG1022,Urban,Chevrolet Bolt,66,40.69,244.0,11.27,Subscriber
+CHG1023,Urban,Chevrolet Bolt,66,36.43,207.0,10.24,Subscriber
+CHG1024,Suburban,Hyundai Ioniq 5,77,46.21,,14.9,Casual
+CHG1025,Highway,Hyundai Ioniq 5,77,63.81,82.0,28.3,Subscriber
+CHG1026,Urban,VW ID.4,82,65.43,373.0,17.2,Subscriber
+CHG1027,Suburban,Chevrolet Bolt,66,22.38,194.0,7.99,Casual
+CHG1028,Suburban,Tesla Model 3,75,35.66,304.0,11.84,Subscriber
+CHG1029,Urban,Hyundai Ioniq 5,77,28.1,172.0,8.24,Casual
+CHG1030,Suburban,Hyundai Ioniq 5,77,52.61,452.0,16.76,Casual
+CHG1031,Urban,Tesla Model 3,75,52.82,304.0,14.18,Subscriber
+CHG1032,Urban,Hyundai Ioniq 5,77,57.13,322.0,15.21,Subscriber
+CHG1033,Highway,VW ID.4,82,58.45,,26.05,Subscriber
+CHG1034,Highway,Chevrolet Bolt,66,49.09,63.0,22.12,Subscriber
+CHG1035,Highway,Tesla Model 3,75,37.85,50.0,17.4,Subscriber
+CHG1036,Urban,Chevrolet Bolt,66,47.98,279.0,13.02,Subscriber
+CHG1037,Urban,Hyundai Ioniq 5,77,59.45,338.0,15.77,Subscriber
+CHG1038,Suburban,Hyundai Ioniq 5,77,,357.0,13.47,Subscriber
+CHG1039,Suburban,Tesla Model 3,75,,236.0,9.26,Subscriber
+CHG1040,Urban,VW ID.4,82,65.31,377.0,17.17,Casual
+CHG1041,Suburban,Nissan Leaf,40,19.04,168.0,7.02,Subscriber
+CHG1042,Urban,Tesla Model 3,75,59.44,340.0,15.77,Subscriber
+CHG1043,Highway,Nissan Leaf,40,32.91,44.0,15.32,Subscriber
+CHG1044,Urban,Nissan Leaf,40,24.62,145.0,7.41,Casual
+CHG1045,Suburban,VW ID.4,82,37.82,333.0,12.47,Subscriber
+CHG1046,Urban,Nissan Leaf,40,19.23,125.0,6.12,Subscriber
+CHG1047,Suburban,Nissan Leaf,40,29.41,258.0,10.03,Casual
+CHG1048,Suburban,VW ID.4,82,60.21,511.0,18.96,Subscriber
+CHG1049,Urban,Nissan Leaf,40,13.27,82.0,4.68,Casual
+CHG1050,Highway,Nissan Leaf,40,24.09,35.0,11.62,Subscriber
+CHG1051,Highway,Nissan Leaf,40,19.72,,9.78,Subscriber
+CHG1052,Highway,Tesla Model 3,75,27.33,38.0,12.98,Subscriber
+CHG1053,Highway,Tesla Model 3,75,48.0,61.0,21.66,Subscriber
+CHG1054,Suburban,Tesla Model 3,75,26.67,233.0,9.23,Subscriber
+CHG1055,Highway,VW ID.4,82,27.88,37.0,13.21,Casual
+CHG1056,Urban,Hyundai Ioniq 5,77,57.91,328.0,15.4,Subscriber
+CHG1057,Urban,Nissan Leaf,40,,91.0,4.83,Subscriber
+CHG1058,Urban,Nissan Leaf,40,33.71,191.0,9.59,Subscriber
+CHG1059,Urban,VW ID.4,82,61.26,342.0,16.2,Subscriber
+CHG1060,Urban,Nissan Leaf,40,32.84,190.0,9.38,Subscriber
+CHG1061,Urban,Tesla Model 3,75,54.56,311.0,14.59,Subscriber
+CHG1062,Highway,Hyundai Ioniq 5,77,46.75,62.0,21.13,Subscriber
+CHG1063,Urban,Chevrolet Bolt,66,23.84,144.0,7.22,Subscriber
+CHG1064,Urban,Nissan Leaf,40,22.84,139.0,6.98,Subscriber
+CHG1065,Suburban,Tesla Model 3,75,24.82,215.0,8.7,Subscriber
+CHG1066,Urban,Chevrolet Bolt,66,24.11,148.0,7.29,Subscriber
+CHG1067,Highway,Hyundai Ioniq 5,77,54.7,68.0,24.47,Subscriber
+CHG1068,Urban,Chevrolet Bolt,66,40.98,237.0,11.34,Casual
+CHG1069,Highway,Tesla Model 3,75,34.29,46.0,15.9,Subscriber
+CHG1070,Highway,Chevrolet Bolt,66,51.33,67.0,23.06,Subscriber
+CHG1071,Urban,VW ID.4,82,27.93,167.0,8.2,Subscriber
+CHG1072,Urban,Chevrolet Bolt,66,39.9,232.0,11.08,Casual
+CHG1073,Highway,Nissan Leaf,40,25.85,37.0,12.36,Casual
+CHG1074,Highway,Nissan Leaf,40,27.31,42.0,12.97,Subscriber
+CHG1075,Highway,VW ID.4,82,50.95,64.0,22.9,Subscriber
+CHG1076,Highway,Tesla Model 3,75,59.67,80.0,26.56,Casual
+CHG1077,Urban,Nissan Leaf,40,18.1,109.0,5.84,Subscriber
+CHG1078,Urban,Hyundai Ioniq 5,77,31.07,173.0,8.96,Subscriber
+CHG1079,Urban,Nissan Leaf,40,24.84,147.0,7.46,Subscriber
+CHG1080,Highway,Nissan Leaf,40,13.71,22.0,7.26,Subscriber
+CHG1081,Suburban,Tesla Model 3,75,35.27,311.0,11.73,Casual
+CHG1082,Urban,Chevrolet Bolt,66,49.34,279.0,13.34,Casual
+CHG1083,Urban,Nissan Leaf,40,32.04,192.0,9.19,Subscriber
+CHG1084,Urban,VW ID.4,82,61.7,344.0,16.31,Subscriber
+CHG1085,Urban,Chevrolet Bolt,66,53.66,316.0,14.38,Subscriber
+CHG1086,Highway,Hyundai Ioniq 5,77,59.78,79.0,26.61,Casual
+CHG1087,Suburban,Tesla Model 3,75,63.23,535.0,19.84,Casual
+CHG1088,Highway,Hyundai Ioniq 5,77,,36.0,13.88,Casual
+CHG1089,Suburban,Chevrolet Bolt,66,55.01,473.0,17.45,Casual
+CHG1090,Urban,Chevrolet Bolt,66,50.37,289.0,13.59,Subscriber
+CHG1091,Highway,Chevrolet Bolt,66,34.86,49.0,16.14,Subscriber
+CHG1092,Highway,Hyundai Ioniq 5,77,34.68,46.0,16.07,Subscriber
+CHG1093,Suburban,Chevrolet Bolt,66,47.71,407.0,15.34,Casual
+CHG1094,Highway,Hyundai Ioniq 5,77,63.11,79.0,28.01,Subscriber
+CHG1095,Suburban,Chevrolet Bolt,66,36.15,313.0,11.98,Subscriber
+CHG1096,Suburban,VW ID.4,82,30.43,264.0,10.32,Subscriber
+CHG1097,Suburban,Chevrolet Bolt,66,28.1,246.0,9.65,Subscriber
+CHG1098,Urban,Hyundai Ioniq 5,77,51.55,288.0,13.87,Subscriber
+CHG1099,Urban,Nissan Leaf,40,14.5,100.0,4.98,Subscriber
+CHG1100,Urban,Chevrolet Bolt,66,44.18,263.0,12.1,Subscriber
+CHG1101,Suburban,Nissan Leaf,40,23.44,205.0,8.3,Subscriber
+CHG1102,Urban,VW ID.4,82,63.03,369.0,16.63,Subscriber
+CHG1103,Suburban,Tesla Model 3,75,58.66,505.0,18.51,Subscriber
+CHG1104,Highway,VW ID.4,82,42.8,57.0,19.48,Casual
+CHG1105,Urban,Chevrolet Bolt,66,45.36,,12.39,Subscriber
+CHG1106,Suburban,Nissan Leaf,40,16.69,153.0,6.34,Subscriber
+CHG1107,Highway,Nissan Leaf,40,20.63,26.0,10.16,Casual
+CHG1108,Urban,Hyundai Ioniq 5,77,41.63,240.0,11.49,Subscriber
+CHG1109,Urban,Nissan Leaf,40,23.31,145.0,7.09,Casual
